@@ -1,0 +1,11 @@
+{
+  "name": "directorycomparer",
+  "version": "1.0.0",
+  "description": "Compares all of the files in 2 or more directories to ensure their contents are identical",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ben Horrix",
+  "license": "ISC"
+}
